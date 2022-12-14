@@ -1,4 +1,4 @@
-# Counterfeit-bank-bill-detection-algorithm
+# Counterfeit bank bill detection algorithm
 
 > This project comes from the Openclassrooms school, so all deliverables are provided in French for evaluation
 
